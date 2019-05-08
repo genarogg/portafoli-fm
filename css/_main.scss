@@ -48,6 +48,18 @@ header{
 
 		}
 
+		header .menu a:hover{
+			border-bottom: 2px solid #fff;
+		}
+
+	header .contenedorDeTexto{
+		display: flex;
+		justify-content: center;
+		align-content:center;
+		margin: 190px 0;
+	}
+
+	
 	
 	
 
