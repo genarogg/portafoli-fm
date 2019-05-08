@@ -95,7 +95,21 @@ header{
 	/*background-color: #191919;*/
 	
 }
-	
+	.main .acercaDe{
+		text-align: center;
+
+	}
+
+	.main .acercaDe .foto{
+		margin-top: -60px;
+	}
+
+	.main .acercaDe .foto img{
+		vertical-align: top;
+		border-radius: 50%;
+		border: 5px solid rgba(255,255,255,0.2);
+	}
+
 	
 
 	
