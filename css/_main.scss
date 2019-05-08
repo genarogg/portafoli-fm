@@ -78,7 +78,23 @@ header{
 				line-height: 25px;
 			}
 
+/*header .contenedorDeTexto .texto h1{
+	font-family: Napoleodoni;
+	letter-spacing: 3px;
+}*/
 
+		header .contenedorDeTexto .texto h1,
+		header .contenedorDeTexto .texto h2{
+			color: white;
+			font-weight: 300;
+			margin: 0;
+		}
+
+.main .contenedor{
+	overflow: visible;
+	/*background-color: #191919;*/
+	
+}
 	
 	
 
