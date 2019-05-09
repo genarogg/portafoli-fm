@@ -151,7 +151,18 @@ header{
 		text-align: center;
 	}
 
-	
+	.main .trabajos .contenedorTrabajos{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+
+	.main .trabajos .contenedorTrabajos .trabajo{
+		width: 23%;
+		margin-bottom: 40px;
+	}
+
 	
 
 
