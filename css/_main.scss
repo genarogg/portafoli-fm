@@ -317,7 +317,10 @@ footer .redesSociales a{
 		font-size: 18px;
 	}
 
-	
+	footer .redesSociales .contenedor {
+		flex-wrap:wrap;
+		padding: 20px 0;
+	}
 }
 
 
